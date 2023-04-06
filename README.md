@@ -49,4 +49,5 @@ I mainly work on crypto challenges, and sometimes on misc ones.
 ## Beloved VTubers
 [弥希Miki](https://space.bilibili.com/477317922)\
 [栀星Freya](https://space.bilibili.com/1335237005)\
-[七海Nana7mi](https://space.bilibili.com/434334701)
+[七海Nana7mi](https://space.bilibili.com/434334701)\
+[わたし绣桃](https://space.bilibili.com/3493131274161030)
