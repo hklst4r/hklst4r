@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ## CTFs
 Team member @USTC-NEBULA.\
-I mainly work on crypt challenges, and sometimes on misc ones.
+I mainly work on crypto challenges, and sometimes on misc ones.
 
 ## Blockchain security achievements
 
