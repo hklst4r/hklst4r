@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## publishments
 
-- working QaQ
+- Have just submitted my recent works, good lyck!
 
 ## About me
 - ⚡ a rookie security researcher
@@ -40,14 +40,15 @@ I mainly work on crypto challenges, and sometimes on misc ones.
 
 ## Blockchain security achievements
 
+### Immunefi
+- You can see the leader board here -> [Whitehat Leaderboard](https://immunefi.com/leaderboard/)
+
 ### Sherlock
-- [Y2K Protocol - Meduim Finding](https://github.com/sherlock-audit/2023-03-Y2K-judging/issues/135)
+- I will list my findings here.
 
 ### Code4rena
 - [Leaderboard](https://code4rena.com/leaderboard)
 
-## Beloved VTubers
-[弥希Miki](https://space.bilibili.com/477317922)\
-[栀星Freya](https://space.bilibili.com/1335237005)\
-[七海Nana7mi](https://space.bilibili.com/434334701)\
-[わたし绣桃](https://space.bilibili.com/3493131274161030)
+## VTubers
+[弥希Miki](https://space.bilibili.com/477317922)
+
