@@ -35,6 +35,13 @@ Here are some ideas to get you started:
 - ✨ a CTF player
 - 🌱 a beginner in pwning
 
+## Repos
+
+### 🗂️ Archived
+
+### 🛠️ Working
+- MEV transaction detect tool. (Still private)
+
 ## CTFs
 Current team leader @USTC-NEBULA (2022.7 - now)\
 I mainly work on **crypto** challenges, and sometimes on **misc** ones. Recent awards are listed below:
@@ -53,6 +60,7 @@ I mainly work on **crypto** challenges, and sometimes on **misc** ones. Recent a
 ### Code4rena
 🥇 [Leaderboard](https://code4rena.com/leaderboard) <- My id is: hklst4r, now ranking: 385th
 
-## VTubers
-- [弥希Miki](https://space.bilibili.com/477317922)
+## Something Fun
+- This is my favorite VTuber on Bilibili, follow her -> [弥希Miki](https://space.bilibili.com/477317922)
+- My name *Weilin* is pronounced similar to *William*, feel free to call me this.
 
