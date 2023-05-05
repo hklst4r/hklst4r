@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## education
 
-- 🎓 Undergraduate at University of Science and Technology of China.
+- 🎓 Undergraduate at University of Science and Technology of China (USTC).
 - 🎓 Intern at THU VUL337 Research Team
 
 ## publishments
