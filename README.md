@@ -62,6 +62,6 @@ I mainly work on **crypto** challenges, and sometimes on **misc** ones. Recent a
 🥇 [Leaderboard](https://code4rena.com/leaderboard) <- My id is: hklst4r, now ranking: 385th
 
 ## Something Fun
-- This is my favorite VTubers on Bilibili -> [弥希Miki](https://space.bilibili.com/477317922), [栀星Freya](https://live.bilibili.com/27413946)
+- This is my favorite VTubers on Bilibili -> [弥希Miki](https://space.bilibili.com/477317922) [栀星Freya](https://live.bilibili.com/27413946)
 - My name *Weilin* is pronounced similar to *William*, feel free to call me this.
 
