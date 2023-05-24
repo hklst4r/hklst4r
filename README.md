@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 
 ## publishments
 
-- Have just submitted my recent works, good luck! 🤞
+- Have just submitted my recent works of [Execution Property Graph](https://arxiv.org/abs/2305.14046), good luck! 🤞
+- 
 
 ## About me
 - 😀 my id hklst4r = hacker + lst4r
