@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![github-stats](https://github-readme-stats.vercel.app/api?username=hklst4r&show_icons=true&line_height=25&hide_title=true)
+<!-- ![github-stats](https://github-readme-stats.vercel.app/api?username=hklst4r&show_icons=true&line_height=25&hide_title=true)
 ![langs-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hklst4r&layout=compact)
-
+ -->
 ## contact way
 - 📫 How to reach me: *wlli@mail.ustc.edu.cn* (or *hklst4r@gmail.com*)
 - 📫 My blog -> [hklst4r's Blog](https://lstarnana7mi.com)
