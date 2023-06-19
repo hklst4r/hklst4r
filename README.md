@@ -49,6 +49,7 @@ I mainly work on **crypto** challenges, and sometimes on **misc** ones. Recent a
 - 🏆 The 6th Strong Net Cup. Second Prize (15th). 2022.8
 - 🏆 Tencent CTF finals. 19th. 2022.9
 - 🏆 Wangding Cup finals. 25th. 2023.4
+- 🏆 SCTF 5th. 2023.6
 
 ## Blockchain security achievements
 
