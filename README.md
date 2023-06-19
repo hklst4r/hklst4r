@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 
 ## publishments
 
-- Have just submitted my recent works of [Execution Property Graph](https://arxiv.org/abs/2305.14046) as the fourth author, good luck! 🤞
-- 
+- Have just submitted my recent works of [*Towards Automated Security Analysis of Smart Contracts based on Execution Property Graph*](https://arxiv.org/abs/2305.14046) as the fourth author, good luck! 🤞
 
 ## About me
 - 😀 my id hklst4r = hacker + lst4r
