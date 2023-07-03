@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![langs-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hklst4r&layout=compact)
  -->
 ## contact way
-- 📫 How to reach me: *wlli@mail.ustc.edu.cn* (or *hklst4r@gmail.com*)
+- 📫 How to reach me: *ustcliweilin@mail.ustc.edu.cn* (or *hklst4r@gmail.com*)
 - 📫 My blog -> [hklst4r's Blog](https://lstarnana7mi.com)
 
 ## education
