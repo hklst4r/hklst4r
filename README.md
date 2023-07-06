@@ -18,23 +18,28 @@ Here are some ideas to get you started:
 ![langs-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hklst4r&layout=compact)
  -->
 ## contact way
-- 📫 How to reach me: *ustcliweilin@mail.ustc.edu.cn* (or *hklst4r@gmail.com*)
+- 📫 How to reach me: *ustcliweilin AT mail.ustc.edu.cn* (or *hklst4r AT gmail.com*)
 - 📫 My blog -> [hklst4r's Blog](https://lstarnana7mi.com)
 
-## education
+## education & Experience
 
 - 🎓 Undergraduate at University of Science and Technology of China (USTC).
-- 🎓 Intern at THU VUL337 Research Team
+- ⚡ Intern at THU VUL337 Research Group (Supervised by Prof. Chao Zhang)
+- ⚡ Intern at Decentralized Intelligence (Supervised by Prof. Arthur Gervais)
+
+
+## About me
+- 😀 my id hklst4r = hacker + lst4r
+- ⚡ a blockchain security researcher, my research interests include:
+    - Smart contract security analysis and Defi attacks
+    - Minter Extratable Value (MEV/BEV)
+    - ...
+- ✨ a CTF player
+- 🌱 a beginner in algorithm, here is my [Codeforces account](https://codeforces.com/profile/hklst4r), come and be friends with me!
 
 ## publishments
 
 - Have just submitted my recent works of [*Towards Automated Security Analysis of Smart Contracts based on Execution Property Graph*](https://arxiv.org/abs/2305.14046) as the fourth author, good luck! 🤞
-
-## About me
-- 😀 my id hklst4r = hacker + lst4r
-- ⚡ a blockchain security researcher
-- ✨ a CTF player
-- 🌱 a beginner in pwning
 
 ## Repos
 
@@ -44,7 +49,7 @@ Here are some ideas to get you started:
 - MEV transaction detect tool. (Still private)
 
 ## CTFs
-Current team leader @USTC-NEBULA (2022.7 - now)\
+Team Leader @USTC-NEBULA (2022.7 - 2023.7)\
 I mainly work on **crypto** challenges, and sometimes on **misc** ones. Recent awards are listed below:
 - 🏆 The 6th Strong Net Cup. Second Prize (15th). 2022.8
 - 🏆 Tencent CTF finals. 19th. 2022.9
@@ -53,6 +58,9 @@ I mainly work on **crypto** challenges, and sometimes on **misc** ones. Recent a
 
 ## Blockchain security achievements
 
+### Bug Reports
+I have submitted many reports to various Defi projects. You can find some of them in this [repo](https://github.com/hklst4r/bug-Reports). 
+
 ### Immunefi
 🥇 [Leaderboard](https://immunefi.com/leaderboard/) <- My id is: hklst4r, now ranking: -
 
@@ -60,7 +68,7 @@ I mainly work on **crypto** challenges, and sometimes on **misc** ones. Recent a
 🥇 [Leaderboard](https://app.sherlock.xyz/audits/leaderboard) <- My id is: hklst4r, now ranking: -
 
 ### Code4rena
-🥇 [Leaderboard](https://code4rena.com/leaderboard) <- My id is: hklst4r, now ranking: 385th
+🥇 [My profile](https://code4rena.com/@hklst4r) <- My id is: hklst4r, now ranking: 385th
 
 ## Something Fun
 - This is my favorite VTubers on Bilibili -> [弥希Miki](https://space.bilibili.com/477317922) [栀星Freya](https://live.bilibili.com/27413946)
