@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 ## education & Experience
 
-- 🎓 Undergraduate at University of Science and Technology of China (USTC).
-- ⚡ Intern at THU VUL337 Research Group (Supervised by Prof. Chao Zhang)
-- ⚡ Intern at Decentralized Intelligence (Supervised by Prof. Arthur Gervais)
+- 🎓 2020.9~2024.6 Undergraduate at University of Science and Technology of China (USTC).
+- ⚡ 2023.2~Current Intern at THU VUL337 Research Group (Supervised by Prof. Chao Zhang)
+- ⚡ 2023.5~Current Intern at Decentralized Intelligence (Supervised by Prof. Arthur Gervais)
 
 
 ## About me
@@ -47,10 +47,12 @@ Here are some ideas to get you started:
 
 ### 🛠️ Working
 - MEV transaction detect tool. (Still private)
+- [Algorithm](https://github.com/hklst4r/algorithm) stores my codeforces/leetcode solutions
 
 ## CTFs
+Team Member @USTC-NEBULA (2021.11 - Current)\
 Team Leader @USTC-NEBULA (2022.7 - 2023.7)\
-I mainly work on **crypto** challenges, and sometimes on **misc** ones. Recent awards are listed below:
+I mainly work on **Crypto** and **Blockchain** challenges, and sometimes on **misc** ones. Recent awards are listed below:
 - 🏆 The 6th Strong Net Cup. Second Prize (15th). 2022.8
 - 🏆 Tencent CTF finals. 19th. 2022.9
 - 🏆 Wangding Cup finals. 25th. 2023.4
