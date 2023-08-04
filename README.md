@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## education & Experience
 
 - 🎓 2020.9~2024.6 Undergraduate at University of Science and Technology of China (USTC).
-- ⚡ 2023.2~Current Intern at THU VUL337 Research Group (Supervised by Prof. Chao Zhang)
+- ⚡ 2023.2~2023.8 Intern at THU VUL337 Research Group (Supervised by Prof. Chao Zhang)
 - ⚡ 2023.5~Current Intern at Decentralized Intelligence (Supervised by Prof. Arthur Gervais)
 
 
