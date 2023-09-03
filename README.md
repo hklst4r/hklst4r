@@ -50,13 +50,14 @@ Here are some ideas to get you started:
 - [Algorithm](https://github.com/hklst4r/algorithm) stores my codeforces/leetcode solutions
 
 ## CTFs
-Team Member @Nebula-CTFTeam (2021.11 - Current)\
-Team Leader @Nebula-CTFTeam (2022.7 - 2023.7)\
+Team Member  @Nebula-CTFTeam (2021.11 - Current)\
+Team Captain @Nebula-CTFTeam (2022.7 - 2023.7)\
 I mainly work on **Crypto** and **Blockchain** challenges, and sometimes on **misc** ones. Recent awards are listed below:
 - 🏆 The 6th Strong Net Cup. Second Prize (15th). 2022.8
 - 🏆 Tencent CTF finals. 19th. 2022.9
 - 🏆 Wangding Cup finals. 25th. 2023.4
 - 🏆 SCTF 5th. 2023.6
+- 🏆 CISCN finals. Second Prize. 2023.8
 
 ## Blockchain security achievements
 
