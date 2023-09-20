@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 - 🌱 a beginner in algorithm, here is my [Codeforces account](https://codeforces.com/profile/hklst4r), come and be friends with me!
 
 ## publishments
-
-- Have just submitted my recent works of [*Towards Automated Security Analysis of Smart Contracts based on Execution Property Graph*](https://arxiv.org/abs/2305.14046) as the fourth author, good luck! 🤞
+- My recent paper _Unmasking Role-Play Attack Strategies in Decentralized Finance (DeFi) System_ is accepted by the 3rd ACM CCS Workshop on Decentralized Finance and Security (DeFi'23). Thanks to all the co-authors!
+- Arxiv pre-print: [*Towards Automated Security Analysis of Smart Contracts based on Execution Property Graph*](https://arxiv.org/abs/2305.14046).
 
 ## Repos
 
