@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - 🌱 a beginner in algorithm, here is my [Codeforces account](https://codeforces.com/profile/hklst4r), come and be friends with me!
 
 ## publishments
-- My recent paper _Unmasking Role-Play Attack Strategies in Decentralized Finance (DeFi) System_ is accepted by the 3rd ACM CCS Workshop on Decentralized Finance and Security (DeFi'23). Thanks to all the co-authors!
+- My recent paper [_Unmasking Role-Play Attack Strategies in Decentralized Finance (DeFi) System_](https://arxiv.org/abs/2310.01081) is accepted by the 3rd ACM CCS Workshop on Decentralized Finance and Security (DeFi'23). Thanks to all the co-authors!
 - Arxiv pre-print: [*Towards Automated Security Analysis of Smart Contracts based on Execution Property Graph*](https://arxiv.org/abs/2305.14046).
 
 ## Repos
