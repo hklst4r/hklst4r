@@ -18,14 +18,16 @@ Here are some ideas to get you started:
 ![langs-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hklst4r&layout=compact)
  -->
 ## contact way
-- 📫 How to reach me: *ustcliweilin AT mail.ustc.edu.cn* (or *hklst4r AT gmail.com*)
-- 📫 My blog -> [hklst4r's Blog](https://lstarnana7mi.com)
+- 📫 How to reach me: *hklst4r AT gmail.com* (or prev ~~*ustcliweilin AT mail.ustc.edu.cn*~~)
 
 ## education & Experience
 
 - 🎓 2020.9~2024.6 Undergraduate at University of Science and Technology of China (USTC).
-- ⚡ 2023.2~2023.8 Intern at THU VUL337 Research Group (Supervised by Prof. Chao Zhang)
-- ⚡ 2023.5~Current Intern at D23E (Supervised by Prof. Arthur Gervais)
+- 🎓 2024.10~??? Incoming PhD student at University College London (UCL), supervised by Prof. Arthur Gervais.
+- ⚡ 2023.5~Current DeFi Researcher at D23E.ch.
+- ⚡ 2023.2~2023.8 Intern at THU VUL337 Research Group (Supervised by Prof. Chao Zhang).
+- ⚡ 2022.7~2023.7 Team Captain @Nebula-CTFTeam (Crypto & Misc).
+
 
 
 ## About me
