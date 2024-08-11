@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ## publishments
 - [_Unmasking Role-Play Attack Strategies in Decentralized Finance (DeFi) System_](https://doi.org/10.1145/3605768.3623545), accepted by the 3rd ACM CCS Workshop on Decentralized Finance and Security (DeFi'23).
 - [ConFuzz: Towards Large Scale Fuzz Testing of Smart Contracts in Ethereum](https://infocom2024.ieee-infocom.org/program/accepted-paper-list-main-conference), accepted at INFOCOM 2024.
-- [*Towards Automated Security Analysis of Smart Contracts based on Execution Property Graph*](https://arxiv.org/abs/2305.14046, Arxiv pre-print.
+- [*Towards Automated Security Analysis of Smart Contracts based on Execution Property Graph*](https://arxiv.org/abs/2305.14046), Arxiv pre-print.
 
 ## CTFs
 Team Member  @Nebula-CTFTeam (2021.11 - Current)\
