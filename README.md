@@ -40,16 +40,9 @@ Here are some ideas to get you started:
 - 🌱 a beginner in algorithm, here is my [Codeforces account](https://codeforces.com/profile/hklst4r), come and be friends with me!
 
 ## publishments
-- My recent paper [_Unmasking Role-Play Attack Strategies in Decentralized Finance (DeFi) System_](https://doi.org/10.1145/3605768.3623545) is accepted by the 3rd ACM CCS Workshop on Decentralized Finance and Security (DeFi'23). Thanks to all the co-authors!
-- Arxiv pre-print: [*Towards Automated Security Analysis of Smart Contracts based on Execution Property Graph*](https://arxiv.org/abs/2305.14046).
-
-## Repos
-
-### 🗂️ Archived
-
-### 🛠️ Working
-- MEV transaction detect tool. (Still private)
-- [Algorithm](https://github.com/hklst4r/algorithm) stores my codeforces/leetcode solutions
+- [_Unmasking Role-Play Attack Strategies in Decentralized Finance (DeFi) System_](https://doi.org/10.1145/3605768.3623545), accepted by the 3rd ACM CCS Workshop on Decentralized Finance and Security (DeFi'23).
+- [ConFuzz: Towards Large Scale Fuzz Testing of Smart Contracts in Ethereum](https://infocom2024.ieee-infocom.org/program/accepted-paper-list-main-conference), accepted at INFOCOM 2024.
+- [*Towards Automated Security Analysis of Smart Contracts based on Execution Property Graph*](https://arxiv.org/abs/2305.14046, Arxiv pre-print.
 
 ## CTFs
 Team Member  @Nebula-CTFTeam (2021.11 - Current)\
@@ -61,21 +54,7 @@ I mainly work on **Crypto** and **Blockchain** challenges, and sometimes on **mi
 - 🏆 SCTF 5th. 2023.6
 - 🏆 CISCN finals. Second Prize. 2023.8
 
-## Blockchain security achievements
-
-### Bug Reports
-I have submitted many reports to various Defi projects. You can find some of them in this [repo](https://github.com/hklst4r/bug-Reports). 
-
-### Immunefi
-🥇 [Leaderboard](https://immunefi.com/leaderboard/) <- My id is: hklst4r, now ranking: -
-
-### Sherlock
-🥇 [Leaderboard](https://app.sherlock.xyz/audits/leaderboard) <- My id is: hklst4r, now ranking: -
-
-### Code4rena
-🥇 [My profile](https://code4rena.com/@hklst4r) <- My id is: hklst4r, now ranking: 385th
-
 ## Something Fun
-- This is my favorite VTubers on Bilibili -> [弥希Miki](https://space.bilibili.com/477317922) [栀星Freya](https://live.bilibili.com/27413946)
+- This is my favorite VTubers on Bilibili -> [弥希Miki](https://space.bilibili.com/477317922) [月诗音Shion](https://space.bilibili.com/3493289896446091)
 - My name *Weilin* is pronounced similar to *William*, feel free to call me this.
 
