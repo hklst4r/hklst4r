@@ -55,6 +55,5 @@ I mainly work on **Crypto** and **Blockchain** challenges, and sometimes on **mi
 - 🏆 CISCN finals. Second Prize. 2023.8
 
 ## Something Fun
-- My favorite VTuber on Bilibili -> [弥希Miki](https://space.bilibili.com/477317922)
 - My name *Weilin* is pronounced similar to *William*, feel free to call me this.
 
